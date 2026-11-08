@@ -34,10 +34,12 @@ This repository serves as my QA portfolio, showcasing my practical skills in API
 
 * **API & Debugging Tools:**
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/REST API-00599C?style=flat-square" />   <img src="https://img.shields.io/badge/JSON-2EAD33?style=flat-square&logo=playwright&logoColor=white" />   <img src="https://img.shields.io/badge/Charles Proxy-26A5E4?style=flat-square&logoColor=white" />   <img src="https://img.shields.io/badge/DevTools-D22128?style=flat-square&logoColor=white" />
+
 * **Databases & Scripting:**
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,js,python,html,css,cs" alt="Languages & Frameworks" />
   </a>
+
 * **Version Control, CI/CD & IDEs:**
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma" alt="Tools & Environments" />
