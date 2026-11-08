@@ -32,16 +32,18 @@ This repository serves as my QA portfolio, showcasing my practical skills in API
 * **Test Management:**   
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" />   <img src="https://img.shields.io/badge/Qase.io-5D198F?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white" /> <img src="https://img.shields.io/badge/Manual_Testing-4285F4?style=flat-square" />
 
-* **API & Debugging Tools:** 
+* **API & Debugging Tools:**
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/REST API-00599C?style=flat-square" />   <img src="https://img.shields.io/badge/JSON-2EAD33?style=flat-square&logo=playwright&logoColor=white" />   <img src="https://img.shields.io/badge/Charles Proxy-26A5E4?style=flat-square&logoColor=white" />   <img src="https://img.shields.io/badge/DevTools-D22128?style=flat-square&logoColor=white" />
-* **Databases & Scripting:**  <a href="https://skillicons.dev">
+* **Databases & Scripting:**
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,js,python,html,css,cs" alt="Languages & Frameworks" />
   </a>
-* **Version Control, CI/CD & IDEs:**   <a href="https://skillicons.dev">
+* **Version Control, CI/CD & IDEs:**
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma" alt="Tools & Environments" />
   </a>
 
-* **Languages:** 
+* **Languages:**
 <img src="https://img.shields.io/badge/English (C1 Advanced)-D22128?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Russian (Native)-00599C?style=flat-square" /> <img src="https://img.shields.io/badge/Belarusian (Native)-2EAD33?style=flat-square&logo=playwright&logoColor=white" /> 
 
 ---
