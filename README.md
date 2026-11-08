@@ -27,7 +27,7 @@ This repository serves as my QA portfolio, showcasing my practical skills in API
 ---
 
 ## 🛠️ Technical Stack & Skills
-**Testing & Quality Assurance:**  
+**Testing & Quality Assurance:**  <br>
  <img src="https://img.shields.io/badge/Functional-26A5E4?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Regression-00599C?style=flat-square" />   <img src="https://img.shields.io/badge/Exploratory-2EAD33?style=flat-square&logo=playwright&logoColor=white" />   <img src="https://img.shields.io/badge/Test Cases-26A5E4?style=flat-square&logoColor=white" />   <img src="https://img.shields.io/badge/Checklists-FF6C37?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Bug Tracking-D22128?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Mind Mapping-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
 
 **Test Management:**   
