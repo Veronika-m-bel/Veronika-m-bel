@@ -56,7 +56,7 @@ This repository serves as my QA portfolio, showcasing my practical skills in API
 ### 1. 📊 DVD Rental SQL Analytics & Data Integrity
 A collection of analytical SQL queries and validation scripts built for the PostgreSQL `dvdrental` database. Demonstrates practical skills in anomaly detection, multi-table joins, and data auditing relevant to QA and L2 Support roles.
 * **Tech Stack:** PostgreSQL, DBeaver, SQL.
-* 👉 [View SQL DVD Rental Project](https://github.com/Veronika-m-bel/sql-dvdrental-analytics)
+* 👉 [View SQL DVD Rental Project](https://github.com/Veronika-m-bel/PostgreSQL-dvdrental)
 
 ### 2. 🔌 DummyJSON API Testing (Postman)
 An automated API testing suite developed in Postman. Includes environment variables management, automated validation scripts using Chai assertions, positive/negative test scenarios, and CI/CD integration practices.
